@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.minlia.maven</groupId>
     <artifactId>minlia-pom</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Minlia Progressive Organization POM</name>
     <description>A organization pom for Maven projects using the latest versions of available plugins and progressively
@@ -42,7 +42,7 @@
         <connection>scm:git:git://github.com/minlia-projects/minlia-pom.git</connection>
         <developerConnection>scm:git:git@github.com:minlia-projects/minlia-pom.git</developerConnection>
         <url>http://github.com/minlia-projects/minlia-pom/tree/master</url>
-        <tag>minlia-pom-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
     <issueManagement>
         <system>Github</system>
