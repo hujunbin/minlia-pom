@@ -1,11 +1,10 @@
 <!-- Copyright (C) 2012-Present  simpligility technologies inc. -->
 <!-- Licensed under the Apache License, Version 2.0 (the "License") -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.minlia.maven</groupId>
     <artifactId>minlia-pom</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
     <name>Minlia Progressive Organization POM</name>
     <description>A organization pom for Maven projects using the latest versions of available plugins and progressively
@@ -43,7 +42,7 @@
         <connection>scm:git:git://github.com/minlia-projects/minlia-pom.git</connection>
         <developerConnection>scm:git:git@github.com:minlia-projects/minlia-pom.git</developerConnection>
         <url>http://github.com/minlia-projects/minlia-pom/tree/master</url>
-        <tag>HEAD</tag>
+        <tag>minlia-pom-0.0.1</tag>
     </scm>
     <issueManagement>
         <system>Github</system>
