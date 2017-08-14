@@ -16,7 +16,7 @@ are therefore an improvement worth adopting. This is done even if this early ado
 ends up finding issues in the belief that finding issues early by adopting new 
 versions soon gets them fixed earlier.
  
- * image:https://travis-ci.org/simpligility/progressive-organization-pom.png["Build Status", link="https://travis-ci.org/simpligility/progressive-organization-pom"]
+ * image:https://api.travis-ci.org/minlia-projects/minlia-pom.png["Build Status", link="https://travis-ci.org/minlia-projects/minlia-pom"]
  
 == Usage
 
